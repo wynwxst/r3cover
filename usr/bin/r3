@@ -1,0 +1,17 @@
+echo starting...
+
+echo run as root...
+
+sleep 2
+
+sudo snaputil -r /
+
+echo running uicache this might take some time...
+
+uicache -a
+
+echo done
+
+sleep 1
+
+reboot
