@@ -1,9 +1,0 @@
-echo ######################################
-echo # Thank you for installing
-echo ######################################
-
-sudo snaputil -c r3
-
-echo created snaputil point...
-
-echo done
