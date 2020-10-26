@@ -1,0 +1,15 @@
+echo restoring...
+
+sudo snaputil -r /
+
+echo running uicache please wait
+
+uicache -a
+
+echo done
+
+echo rebooting...
+
+sleep 2
+
+reboot
