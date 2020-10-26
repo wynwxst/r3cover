@@ -1,9 +1,0 @@
-Package: xyz.sn0wstar.r3cover
-Name: recovery root fs
-Depends: Mterminal
-Version: 1.0
-Architecture: iphoneos-arm
-Description: recover your root fs without hassle
-Maintainer: sn0wstar
-Author: sn0wstar
-Section: Utilities
