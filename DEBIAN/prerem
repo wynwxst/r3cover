@@ -9,6 +9,7 @@ echo restoring back to r3 point created with installer...
 cd /
 cd usr/bin/
 rm r3
+rm -rf r3-base
 
 echo to go back to r3 point run r3X...
 echo done
